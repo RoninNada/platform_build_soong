@@ -6,7 +6,7 @@ build = [
 
 subdirs = [
     "build/soong",
-    "vendor/aosip/build/soong",
+    "vendor/zero/build/soong",
 ]
 
 optional_subdirs = [
